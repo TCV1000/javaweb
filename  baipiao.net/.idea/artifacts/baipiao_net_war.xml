@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baipiao.net:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/baipiao_net_war</output-path>
+    <root id="archive" name="baipiao.net_war.war">
+      <element id="artifact" artifact-name="baipiao.net:war exploded" />
+    </root>
+  </artifact>
+</component>
